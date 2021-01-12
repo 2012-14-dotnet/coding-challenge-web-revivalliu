@@ -1,0 +1,19 @@
+*{
+    background-color: #fefbd8;
+    text-align: center;
+}
+
+.column{
+    float: left;
+    width: 25%;
+}
+.column2{
+    float: right;
+    width:75%;
+}
+.table
+{
+    float: center;
+}
+.p
+{color: red;}
